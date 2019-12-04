@@ -5,10 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
-
 </head>
 <body>
-
 <script>
 var person;
 if (confirm("Hello we need your data =)")) {
@@ -17,6 +15,5 @@ if (confirm("Hello we need your data =)")) {
 } else    
     alert("Wrong data");
 </script>   
-    
 </body>
 </html>
